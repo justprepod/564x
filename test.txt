@@ -1,0 +1,4 @@
+
+function action(){
+socket.emit();
+}
