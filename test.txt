@@ -1,5 +1,8 @@
 require('http');
 
+function newFeature(){
+}
+
 function action(){
 socket.emit();
 }
