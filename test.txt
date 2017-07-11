@@ -5,6 +5,9 @@ require('https');
 function newFeature(){
 }
 
+function newFeature(){
+}
+
 function action(){
 socket.emit();
 }
