@@ -11,6 +11,12 @@ function newFeature(){
 function webFeature(){
 }
 
+function newFeature(){
+}
+
+function webFeature(){
+}
+
 function action(){
 socket.emit();
 }
