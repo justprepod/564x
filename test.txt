@@ -8,6 +8,9 @@ function newFeature(){
 function newFeature(){
 }
 
+function webFeature(){
+}
+
 function action(){
 socket.emit();
 }
