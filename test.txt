@@ -2,6 +2,9 @@ let params = {key:, cert:};
 
 require('https');
 
+function newFeature(){
+}
+
 function action(){
 socket.emit();
 }
