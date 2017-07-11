@@ -5,15 +5,6 @@ require('https');
 function newFeature(){
 }
 
-function newFeature(){
-}
-
-function webFeature(){
-}
-
-function newFeature(){
-}
-
 function webFeature(){
 }
 
