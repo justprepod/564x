@@ -1,3 +1,4 @@
+require('http');
 
 function action(){
 socket.emit();
