@@ -13,11 +13,19 @@ socket.emit();
 }
 
 function feature1(){
-	
+	bugfix1()
 }
 
 function feature4(){
 }
 
 function feature5(){
+}
+
+function feature11(){
+	
+}
+
+function feature10(){
+	
 }
