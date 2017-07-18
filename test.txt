@@ -13,7 +13,7 @@ socket.emit();
 }
 
 function feature1(){
-	
+	bugfix1()
 }
 
 function feature4(){
